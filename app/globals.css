@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+@layer components {
+  /* Mangled classes for SEO landing */
+  .lb-x7q9-scroller::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+  }
+  .lb-x7q9-scroller::-webkit-scrollbar-track {
+    background: #0f141d;
+  }
+  .lb-x7q9-scroller::-webkit-scrollbar-thumb {
+    background: #1e2634;
+    border-radius: 4px;
+  }
+}
